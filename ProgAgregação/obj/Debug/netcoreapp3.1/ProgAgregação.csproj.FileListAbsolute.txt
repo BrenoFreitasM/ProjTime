@@ -1,0 +1,11 @@
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\obj\Debug\netcoreapp3.1\ProgAgregação.csprojAssemblyReference.cache
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\obj\Debug\netcoreapp3.1\ProgAgregação.AssemblyInfoInputs.cache
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\obj\Debug\netcoreapp3.1\ProgAgregação.AssemblyInfo.cs
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\bin\Debug\netcoreapp3.1\ProgAgregação.exe
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\bin\Debug\netcoreapp3.1\ProgAgregação.deps.json
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\bin\Debug\netcoreapp3.1\ProgAgregação.runtimeconfig.json
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\bin\Debug\netcoreapp3.1\ProgAgregação.runtimeconfig.dev.json
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\bin\Debug\netcoreapp3.1\ProgAgregação.dll
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\bin\Debug\netcoreapp3.1\ProgAgregação.pdb
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\obj\Debug\netcoreapp3.1\ProgAgregação.dll
+C:\Users\breno\Source\Repos\ProjFutebol_01\ProgAgregação\obj\Debug\netcoreapp3.1\ProgAgregação.pdb
